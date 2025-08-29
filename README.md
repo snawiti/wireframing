@@ -124,6 +124,40 @@ High-fidelity (hi-fi) wireframes are detailed mockups that closely resemble the 
 
 For this project, the wireframe created is a **[choose one: Low-Fidelity / High-Fidelity]** wireframe.
 
+## 🛠️ Wireframing Tools
+
+Wireframing tools make it easier to visualize, iterate, and collaborate during the UI/UX design process. These tools often include drag-and-drop components, prebuilt UI kits, and collaborative features that streamline the design workflow.
+
+### 🌟 Popular Wireframing Tools
+
+- **Figma** – A web-based design and prototyping tool known for real-time collaboration and ease of use.
+- **Adobe XD** – Offers powerful UI/UX design and prototyping features, especially for designers in the Adobe ecosystem.
+- **Sketch** – A macOS-based vector design tool popular for UI/UX work, particularly in native app development.
+- **Balsamiq** – Known for its low-fidelity sketch-style wireframes; great for early ideation.
+- **Axure RP** – More advanced wireframing with rich interactivity and logic for UX professionals.
+
+---
+
+### 💡 Why Figma is Recommended
+
+**Figma** stands out as one of the most powerful and accessible tools for wireframing and prototyping, especially for team-based projects.
+
+#### 🔑 Key Features:
+- **Real-Time Collaboration** – Multiple designers can work on the same file simultaneously.
+- **Cloud-Based** – No need for downloads; accessible via any browser.
+- **Built-In Prototyping** – Easily turn wireframes into interactive prototypes.
+- **Reusable Components** – Create design systems using components and variants.
+- **Version Control** – Track changes and revert to earlier versions as needed.
+
+#### ✅ Why It's Useful for Wireframing:
+- Speeds up early-stage design with prebuilt shapes and UI kits
+- Helps teams quickly share and gather feedback on ideas
+- Allows fast transitions from low- to high-fidelity wireframes
+- Encourages collaboration between designers, developers, and stakeholders
+
+> 📌 Whether you're designing a simple wireframe or a detailed prototype, Figma provides a flexible, intuitive platform that scales with your project.
+
+
 **Reason:**
 - [If Low-Fidelity] This version is focused on layout and structure without visual styling. It was designed to explore user flows and page elements quickly.
 - [If High-Fidelity] This version includes detailed styling, real content, and is built for stakeholder review and usability testing.
