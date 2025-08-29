@@ -76,3 +76,57 @@ A wireframe for a booking form might include dropdowns for selecting a service, 
 Together, these elements ensure wireframes communicate how the final product will function and guide both design and development toward a usable, user-friendly experience.
 transitioning from idea to interactive prototype.
 
+## 🧮 Types of Wireframes
+
+Wireframes can be categorized into two main types: **low-fidelity** and **high-fidelity**, each serving a different purpose in the design process.
+
+---
+
+### 📝 Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are quick, basic sketches or digital layouts used in the **early stages** of product design. They focus on structure and layout, not visuals or details.
+
+**Characteristics:**
+- Simple shapes (boxes, lines, placeholders)
+- Black and white or grayscale
+- No styling, colors, or images
+- Fast to create and easy to update
+
+**When to Use:**
+- During brainstorming sessions
+- For validating layout ideas
+- In early user testing to focus on usability
+
+**Example Use:** Sketching how a booking form is arranged before finalizing any content or branding.
+
+---
+
+### 🎨 High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are detailed mockups that closely resemble the final product. They include actual content, visuals, and interactivity.
+
+**Characteristics:**
+- Precise spacing and alignment
+- Actual images, icons, and fonts
+- Simulates real functionality
+- Often created in tools like Figma or Adobe XD
+
+**When to Use:**
+- In the later stages of design
+- For handoff to developers
+- For stakeholder presentations and approvals
+
+**Example Use:** A fully designed booking page with input fields, calendar widget, styled buttons, and confirmation pop-up.
+
+---
+
+## 🔍 What Type of Wireframe is This?
+
+For this project, the wireframe created is a **[choose one: Low-Fidelity / High-Fidelity]** wireframe.
+
+**Reason:**
+- [If Low-Fidelity] This version is focused on layout and structure without visual styling. It was designed to explore user flows and page elements quickly.
+- [If High-Fidelity] This version includes detailed styling, real content, and is built for stakeholder review and usability testing.
+
+> 🎯 *Tool used:* Figma  
+> 📌 *Wireframe focus:* [Insert feature or screen name, e.g., “Booking Confirmation Page” or “User Dashboard”]
